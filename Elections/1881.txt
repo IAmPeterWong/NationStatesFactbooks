@@ -1,0 +1,58 @@
+[font=Helvetica][sidebar][/font]
+[center][size=140][font=Helvetica][b]1881 Palmerstonian Legislative Election[/b][/font][/size]
+[font=Helvetica][nation=noname]Palmerstone[/nation][/font]
+[hr][table=plain][tr][td][font=Helvetica]← [url=https://www.nationstates.net/nation=palmerstone/detail=factbook/id=2749601]1877[/url][/font][/td]
+[td][font=Helvetica]7th May 1881[/font][/td]
+[td][font=Helvetica]1884 →[/font][/td][/tr][/table]
+[table=plain][tr][td][font=Helvetica]‎← outgoing members[/font][/td]
+[td][font=Helvetica]elected members →[/font][/td]
+[/tr]
+[/table][hr][font=Helvetica]All 60 seats in the Legislative Assembly[/font][/center]
+[center][font=Helvetica][size=80]31 seats needed for a majority[/size][/font][/center]
+[center][hr][table=plain][tr][td][font=Helvetica][b]Registered[/b][/font][/td]
+[td][font=Helvetica]251,742 [color=#4cea5e]▲[/color]21.4%[/font][/td]
+[/tr]
+[tr][td][font=Helvetica][b]Turnout[/b][/font][/td]
+[td][font=Helvetica]228,391 (90.72%)
+[size=75][color=#4cea5e]▲[/color] 7.13 pp[/size][/font][/td]
+[/tr]
+[/table]
+[/center]
+
+[font=Helvetica][/sidebar][/font]
+
+Legislative elections were held in Palmerstone on 7th May 1881 to elect the 60 members of the Legislative Assembly.
+
+These were the third elections held in Palmerstone under the British Empire, and the second last election held while Palmerstone remained under the British Empire. The Radical-Liberal Party, newly formed out of the Radical Left faction in the Legislative Assembly, maintained their supermajority in Parliament and continued to dominate politics in Palmerstone.
+
+The 1881 legislative elections continued to set the stage for further, more wide-ranging political reforms to Palmerstone and self-governance of the territory. 
+
+[size=150][anchor=Background][b]Background[/b][/anchor][/size]
+[size=2][hr][/size][size=135][b]Constitutional amendments[/b][/size][size=150][b]　[/b][/size]
+As part of a coalition agreement between the Radical Left and the Nationalist Centre, the Constitution of Palmerstone was significantly amended. The position of Governor for Palmerstone was effectively abolished and replaced with the post of President, with provisions for a president being elected by the public implemented in preparation for anticipated eventual independence. At the same time, as part of negotiations and compromise with the British colonial government, the National Council was to have elections too starting from the election after 1881, effectively ending the appointment of members to the National Council after this election.
+
+The 1881 elections were the first to be held under this new constitution, and marked a new era in the self-governance of Palmerstone and democracy in the nation.
+
+To qualify as a voter, one needed to be male, to be a British subject and to be at least 21 years old
+[size=135][b]Political developments[/b][/size][size=150][b]　[/b][/size]
+On 19th January 1881, the Radical Left under Prime Minister Thomas Cowan consolidated into a single party, forming the new Radical-Liberal Party. This marked the first time a political party was established in Palmerstone; prior to that, all members were elected as independents but belonged to their respective factions. This would set the stage for the establishment of the Nationalists and the Conservative Party the following year. 
+
+As a result of surging nationalist sentiment, the Nationalist Centre faction and Radical-Liberal Party both gained popularity, leading both to form a working coalition on certain issues.
+
+[b] [/b]
+[size=150][anchor=Results][b]Results[/b][/anchor][/size][hr]
+[img]https://i.postimg.cc/pd5Nwsjx/LE1881_405px.png[/img]
+
+[float=left]
+[table][tr][td][font=Helvetica]Party[/font][/td][td][font=Helvetica]Votes[/font][/td][td][font=Helvetica]%[/font][/td][td][font=Helvetica]Seats[/font][/td][/tr]
+[tr][td][color=#e8c500][font=Helvetica]﻿▌[/font][/color][font=Helvetica]Radical-Liberal Party[/font][/td][td]　　　　　[/td][td][font=Helvetica][i]62.1%[/i][/font][/td][td][font=Helvetica]41[/font][/td][/tr]
+[tr][td][color=#F07F3C][font=Helvetica]﻿▌[/font][/color][font=Helvetica]Liberal Centre[/font][/td][td][/td][td][font=Helvetica][i]8.5%[/i][/font][/td][td][font=Helvetica]4[/font][/td][/tr]
+[tr][td][color=#00ddba][font=Helvetica]﻿▌[/font][/color][font=Helvetica]Nationalist Centre[/font][/td][td][/td][td][font=Helvetica][i]20.2%[/i][/font][/td][td][font=Helvetica]10[/font][/td][/tr]
+[tr][td][color=#1e82dd][font=Helvetica]﻿▌[/font][/color][font=Helvetica]Conservative Right[/font][/td][td][/td][td][font=Helvetica][i]9.2%[/i][/font][/td][td][font=Helvetica]5[/font][/td][/tr]
+[tr][td][font=Helvetica]Total[/font][/td][td][/td][td]　　　　　[/td][td][font=Helvetica]60[/font][/td][/tr]
+[tr][td][/td][td][/td][td][/td][td][/td][/tr]
+[tr][td][font=Helvetica]Total votes[/font][/td][td][font=Helvetica]228,391[/font][/td][td][font=Helvetica]100%[/font][/td][td][/td][/tr]
+[tr][td][font=Helvetica]Registered votes/turnout[/font][/td][td][font=Helvetica]251,742[/font][/td][td][font=Helvetica]90.72[/font][/td][td]　　　　　[/td][/tr]
+[/table]
+
+[/float]
