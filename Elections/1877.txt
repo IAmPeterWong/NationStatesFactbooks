@@ -1,0 +1,55 @@
+[font=Helvetica][sidebar][/font]
+[center][size=140][font=Helvetica][b]1877 Palmerstonian Legislative Election[/b][/font][/size]
+[font=Helvetica][nation=noname]Palmerstone[/nation][/font]
+[hr][table=plain][tr][td][font=Helvetica]← [url=https://www.nationstates.net/nation=palmerstone/detail=factbook/id=2749400]1873[/url][/font][/td]
+[td][font=Helvetica]15th April 1877[/font][/td]
+[td][font=Helvetica][url=https://www.nationstates.net/nation=palmerstone/detail=factbook/id=2749604]1881[/url] →[/font][/td][/tr][/table]
+[table=plain][tr][td][font=Helvetica]‎← outgoing members[/font][/td]
+[td][font=Helvetica]elected members →[/font][/td]
+[/tr]
+[/table][hr][font=Helvetica]All 55 seats in the Legislative Assembly[/font][/center]
+[center][font=Helvetica][size=80]28 seats needed for a majority[/size][/font][/center]
+[center][hr][table=plain][tr][td][font=Helvetica][b]Registered[/b][/font][/td]
+[td][font=Helvetica]207,259 [color=#4cea5e]▲[/color]30.9%[/font][/td]
+[/tr]
+[tr][td][font=Helvetica][b]Turnout[/b][/font][/td]
+[td][font=Helvetica]173,252 (83.59%)
+[size=75][color=#ff0000]▼[/color] 0.56 pp[/size][/font][/td]
+[/tr]
+[/table]
+[/center]
+
+[font=Helvetica][/sidebar][/font]
+
+Legislative elections were held in Palmerstone on 15 April 1877 to elect the 55 members of the Legislative Assembly.
+
+These were the second elections held in Palmerstone under the British Empire, and the third last election held while Palmerstone remained under the British Empire. The Radical Left secured a landslide victory, having achieved a supermajority, establishing the dominance of the Radicals and their successor, the Liberal Front, in Palmerstone for the next four decades. This is also the last election before mandatory voting was implemented in Palmerstone in a 1879 referendum.
+
+The 1877 legislative elections also set the stage for further, more wide-ranging political reforms to the Colony of Palmerstone and self-governance of the territory. The election saw increasing anti-colonial sentiment compared to before, with more and more Palmerstonians desiring self-governance.
+
+[size=150][anchor=Background][b]Background[/b][/anchor][/size]
+[size=2][hr][/size]
+The first legislative elections were held in 1873 after the passing of the Palmerstonian Self-Governance Act of 1871 in the Parliament of the United Kingdom. Prime Minister Thomas Cowan, leader of the informal Radical Left faction in the Legislative Election, continued his post after the elections of 1873, being the head of the largest faction in Parliament, the Radical Left.
+
+As a result of heavily increasing immigration levels at the time, an additional 49 thousand people were considered eligible and added to the voter rolls in Palmerstone.
+
+To qualify as a voter, one needed to be male, to be a British subject and to be at least 21 years old.
+
+At the time of the 1877 elections in Palmerstone, there were no political parties, and as such all candidates ran as independents. However, candidates were classified into the factions in which they belonged to.
+[b] [/b]
+[size=150][anchor=Results][b]Results[/b][/anchor][/size][hr]
+[img]https://i.postimg.cc/x8qkvr7B/LE1877-405px.png[/img]
+
+[float=left]
+[table][tr][td][font=Helvetica]Party[/font][/td][td][font=Helvetica]Votes[/font][/td][td][font=Helvetica]%[/font][/td][td][font=Helvetica]Seats[/font][/td][/tr]
+[tr][td][color=#e8c500][font=Helvetica]﻿▌[/font][/color][font=Helvetica]Radical Left[/font][/td][td]　　　　　[/td][td][font=Helvetica][i]60.7%[/i][/font][/td][td][font=Helvetica]38[/font][/td][/tr]
+[tr][td][color=#F07F3C][font=Helvetica]﻿▌[/font][/color][font=Helvetica]Liberal Centre[/font][/td][td][/td][td][font=Helvetica][i]7.5%[/i][/font][/td][td][font=Helvetica]3[/font][/td][/tr]
+[tr][td][color=#00ddba][font=Helvetica]﻿▌[/font][/color][font=Helvetica]Nationalist Centre[/font][/td][td][/td][td][font=Helvetica][i]20.2%[/i][/font][/td][td][font=Helvetica]9[/font][/td][/tr]
+[tr][td][color=#1e82dd][font=Helvetica]﻿▌[/font][/color][font=Helvetica]Conservative Right[/font][/td][td][/td][td][font=Helvetica][i]11.6%[/i][/font][/td][td][font=Helvetica]5[/font][/td][/tr]
+[tr][td][font=Helvetica]Total[/font][/td][td][/td][td]　　　　　[/td][td][font=Helvetica]55[/font][/td][/tr]
+[tr][td][/td][td][/td][td][/td][td][/td][/tr]
+[tr][td][font=Helvetica]Total votes[/font][/td][td][font=Helvetica]173,252[/font][/td][td][font=Helvetica]100%[/font][/td][td][/td][/tr]
+[tr][td][font=Helvetica]Registered votes/turnout[/font][/td][td][font=Helvetica]207,259[/font][/td][td][font=Helvetica]83.59%[/font][/td][td]　　　　　[/td][/tr]
+[/table]
+
+[/float]
